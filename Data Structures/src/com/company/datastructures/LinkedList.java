@@ -10,8 +10,8 @@ public class LinkedList<T> {
         head = null;
         length = 0;
 
-        for (T value : data) {
-            add(value);
+        for (T element : data) {
+            add(element);
         }
     }
 
