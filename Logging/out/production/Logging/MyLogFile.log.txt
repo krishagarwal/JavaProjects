@@ -1,0 +1,24 @@
+Apr 16, 2017 11:45:50 AM com.company.logging.Main main
+FINER: ENTRY owpopowb
+Apr 16, 2017 11:45:50 AM com.company.logging.Main main
+FINE: It works
+Apr 16, 2017 11:45:50 AM com.company.logging.Main main
+FINE: Hi How r u?
+Apr 16, 2017 11:45:50 AM com.company.logging.Main main
+FINER: RETURN owpopowb
+Apr 16, 2017 11:47:08 AM com.company.logging.Main main
+FINER: ENTRY 2nd time
+Apr 16, 2017 11:47:08 AM com.company.logging.Main main
+INFO: it appends
+Apr 16, 2017 11:47:08 AM com.company.logging.Main main
+FINE: it appends
+Apr 16, 2017 11:47:08 AM com.company.logging.Main main
+FINER: RETURN 2nd time
+Apr 16, 2017 11:47:41 AM com.company.logging.Main main
+FINER: ENTRY 2nd time
+Apr 16, 2017 11:47:41 AM com.company.logging.Main main
+SEVERE: it appends
+Apr 16, 2017 11:47:41 AM com.company.logging.Main main
+FINE: it appends
+Apr 16, 2017 11:47:41 AM com.company.logging.Main main
+FINER: RETURN 2nd time
