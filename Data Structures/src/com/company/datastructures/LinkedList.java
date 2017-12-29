@@ -1,5 +1,6 @@
 package com.company.datastructures;
 
+
 public class LinkedList<T> {
 
     private Node<T> head;
