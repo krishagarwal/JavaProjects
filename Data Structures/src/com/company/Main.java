@@ -1,3 +1,5 @@
+package com.company;
+
 import com.company.datastructures.LinkedList;
 import com.company.datastructures.Queue;
 import com.company.datastructures.Stack;
