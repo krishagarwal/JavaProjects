@@ -14,7 +14,7 @@ public class StackedQueue<T> {
         this.MAX_LENGTH = MAX_LENGTH;
         stack1 = new Stack<>(MAX_LENGTH);
         stack2 = new Stack<>(MAX_LENGTH);
-        
+
         for (T element : data) {
             enqueue(element);
         }
