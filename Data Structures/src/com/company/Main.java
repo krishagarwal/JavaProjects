@@ -16,7 +16,7 @@ public class Main {
     public static void main(String[] args) {
 
         Integer[] array = new Integer[]{4, 5, 6, 2, 1, 7, 10, 3, 8, 9};
-        Sorting.selectionSort(array);
+        Sorting.bubbleSort(array);
         System.out.println(Arrays.toString(array));
 
         System.out.println("Testing LinkedList...");
